@@ -12,7 +12,7 @@ import java.util.*;
 import java.util.*;
 // Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
 
-class TestClass {
+class Anagrams {
     public static void main(String args[] ) throws Exception {
         /* Sample code to perform I/O:
          * Use either of these methods for input
